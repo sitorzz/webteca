@@ -19,6 +19,20 @@
         margin: 0 auto;
 	}
 	
+
+.rt-circular2 {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://i.ytimg.com/vi/qen6S10d_H4/maxresdefault.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
 /*m5uf2*/
 .m5uf2-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
