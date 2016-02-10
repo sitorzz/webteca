@@ -19,6 +19,23 @@
         margin: 0 auto;
 	}
 	
+/*PCG*/
+.pcg-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.pcg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.pcg-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(C:\Users\Paula\Pictures\20160210103340.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+	
 /*m5uf2*/
 .m5uf2-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
