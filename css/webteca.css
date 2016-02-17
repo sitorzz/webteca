@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*CSS for webteca. M5 - UF2 1.2 */
 =======
 /*CSS for webteca. M5 - UF2. v1.1*/
+>>>>>>> RogerTorrell/master
+=======
+/*CSS for webteca. M5 - UF2. v1.2*/
 >>>>>>> RogerTorrell/master
 =======
 /*CSS for webteca. M5 - UF2. v1.2*/
@@ -28,13 +32,19 @@
 	}
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 .rt-circular2 {
 =======
+=======
+>>>>>>> RogerTorrell/master
 /*RH*/ 
 .rt-titleh{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitleh{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .rt-circularh {
+<<<<<<< HEAD
+>>>>>>> RogerTorrell/master
+=======
 >>>>>>> RogerTorrell/master
 	width: 200px;
 	height: 200px;
@@ -42,7 +52,11 @@
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	background: url(https://i.ytimg.com/vi/qen6S10d_H4/maxresdefault.jpg) no-repeat;
+=======
+	background: url(http://images6.fanpop.com/image/photos/34800000/Lelouch-lelouch-lamperouge-zero-34812534-1280-720.jpg) no-repeat;
+>>>>>>> RogerTorrell/master
 =======
 	background: url(http://images6.fanpop.com/image/photos/34800000/Lelouch-lelouch-lamperouge-zero-34812534-1280-720.jpg) no-repeat;
 >>>>>>> RogerTorrell/master
