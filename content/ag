@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="../css/webteca.css">
+		<link rel="stylesheet" type="text/css" href="../css/bootstrap/bootstrap.min.css">	
+	</head>
+	<body>
+		<div class="rt-title">Àlex Garcia Julià</div>
+		<div class="rt-subtitle">"Cualquier idiota puede usar un ordenador. De hecho, muchos lo hacen"</div>
+		<div class="rt-circular"></div>
+		<div class="rt-title">ERROR 404<p>Skills NOT FOUND</p></div>
+	</body>
+</html>
