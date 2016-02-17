@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 /*CSS for webteca*/
 .embed_object {width:100%; height:100%; border-style:none; border-width:0px;}
 .title {font-size:40px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
 /*RT */
 .rt-title{font-size:30px; font-family:'Arvo'; text-align:center}
+=======
+/*CSS for webteca. M5 - UF2. v1.0*/
+.embed_object {width:100%; height:100%; border-style:none; border-width:0px;}
+.title {font-size:40px; font-family:'Montserrat'; text-align:center;}
+.text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
+
+/*RT*/ 
+.rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
+>>>>>>> origin/master
 .rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .rt-circular {
 	width: 200px;
@@ -15,11 +25,15 @@
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
-    margin: 0 auto;
+        margin: 0 auto;
 	}
 	
 /*m5uf2*/
+<<<<<<< HEAD
 .m5uf2-title{font-size:30px; font-family:'Arvo'; text-align:center}
+=======
+.m5uf2-title{font-size:32px; font-family:'Arvo'; text-align:center}
+>>>>>>> origin/master
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .m5uf2-circular {
 	width: 200px;
