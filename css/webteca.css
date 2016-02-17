@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-/*CSS for webteca. M5 - UF2 1.2 */
-=======
-/*CSS for webteca. M5 - UF2. v1.1*/
->>>>>>> RogerTorrell/master
-=======
 /*CSS for webteca. M5 - UF2. v1.2*/
->>>>>>> RogerTorrell/master
-=======
-/*CSS for webteca. M5 - UF2. v1.2*/
->>>>>>> RogerTorrell/master
 .embed_object {width:100%; height:100%; border-style:none; border-width:0px;}
 .title {font-size:60px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
@@ -31,35 +19,32 @@
         margin: 0 auto;
 	}
 	
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-.rt-circular2 {
-=======
-=======
->>>>>>> RogerTorrell/master
 /*RH*/ 
 .rt-titleh{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitleh{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .rt-circularh {
-<<<<<<< HEAD
->>>>>>> RogerTorrell/master
-=======
->>>>>>> RogerTorrell/master
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
-<<<<<<< HEAD
-<<<<<<< HEAD
-	background: url(https://i.ytimg.com/vi/qen6S10d_H4/maxresdefault.jpg) no-repeat;
-=======
 	background: url(http://images6.fanpop.com/image/photos/34800000/Lelouch-lelouch-lamperouge-zero-34812534-1280-720.jpg) no-repeat;
->>>>>>> RogerTorrell/master
-=======
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+/*OA*/ 
+.rt-titleo{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitleo{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circularo {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
 	background: url(http://images6.fanpop.com/image/photos/34800000/Lelouch-lelouch-lamperouge-zero-34812534-1280-720.jpg) no-repeat;
->>>>>>> RogerTorrell/master
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
@@ -81,3 +66,4 @@
 	float: none;
     margin: 0 auto;
 	}
+
