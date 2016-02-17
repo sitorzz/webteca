@@ -35,6 +35,7 @@
         margin: 0 auto;
 	}
 
+<<<<<<< HEAD
 /*AG*/
 .ag-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .ag-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -69,6 +70,8 @@
         margin: 0 auto;
 	}
 
+=======
+>>>>>>> RogerTorrell/master
 /*m5uf2*/
 .m5uf2-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -84,4 +87,3 @@
 	float: none;
     margin: 0 auto;
 	}
-
