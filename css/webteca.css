@@ -52,8 +52,20 @@
 
 /*  INICIO CSS DE - PGT  */
 
-.pgt_title{
-	
-}
+.pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.pgt-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://qu4k3.com/q.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
 
 /*  FIN CSS DE - PGT  */
