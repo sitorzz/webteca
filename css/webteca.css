@@ -66,3 +66,18 @@
 	float: none;
         margin: 0 auto;
 	}
+/*SME*/
+.titleSME{font-size:32px; font-family:'Arvo'; text-align:center}
+.subtitleSME{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.circularSME{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://archivoimg.globovision.com/wp-content/uploads/2015/08/farruko2.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
