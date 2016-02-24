@@ -67,7 +67,6 @@
         margin: 0 auto;
 	}
 
-
 /*AGB*/
 .titleAGB{font-size:32px; font-family:'Arvo'; text-align:center}
 .subtitleAGB{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -98,22 +97,3 @@
 	float: none;
         margin: 0 auto;
 	}
-
-/*  INICIO CSS DE - PGT  */
-.pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.pgt-circular {
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
-	background: url(http://qu4k3.com/q.gif) no-repeat;
-	background: url(https://www.random.org/analysis/randbitmap-rdo-section.png) no-repeat;
-	background-size: auto 200px;
-	background-position: center; 
-	float: none;
-        margin: 0 auto;
-	}
-/*  FIN CSS DE - PGT  */
-
