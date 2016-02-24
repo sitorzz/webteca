@@ -34,6 +34,22 @@
         margin: 0 auto;
 	}
 
+	/*AM*/ 
+.am-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.am-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.am-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://media.licdn.com/mpr/mpr/p/7/005/07f/06f/3411d01.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
 /*m5uf2*/
 .m5uf2-title{font-size:30px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
