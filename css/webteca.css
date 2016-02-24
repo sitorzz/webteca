@@ -50,6 +50,7 @@
     margin: 0 auto;
 	}
 
+
 /*AG*/ 
 .ag-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .ag-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -98,7 +99,6 @@
         margin: 0 auto;
 	}
 
-
 /*  INICIO CSS DE - PGT  */
 .pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -116,3 +116,4 @@
         margin: 0 auto;
 	}
 /*  FIN CSS DE - PGT  */
+
