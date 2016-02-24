@@ -50,39 +50,23 @@
     margin: 0 auto;
 	}
 
-<<<<<<< HEAD
-/*  INICIO CSS DE - PGT  */
-
-.pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.pgt-circular {
-=======
 
 /*AG*/ 
 .ag-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .ag-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .ag-circular {
->>>>>>> d5533381c8ccd9a737a1cb8560a6c66a80821331
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
-<<<<<<< HEAD
-	background: url(http://qu4k3.com/q.gif) no-repeat;
-=======
 	background: url(https://www.random.org/analysis/randbitmap-rdo-section.png) no-repeat;
->>>>>>> d5533381c8ccd9a737a1cb8560a6c66a80821331
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
         margin: 0 auto;
 	}
 
-<<<<<<< HEAD
-
-/*  FIN CSS DE - PGT  */
-=======
 /*AGB*/
 .titleAGB{font-size:32px; font-family:'Arvo'; text-align:center}
 .subtitleAGB{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -113,4 +97,3 @@
 	float: none;
         margin: 0 auto;
 	}
->>>>>>> d5533381c8ccd9a737a1cb8560a6c66a80821331
