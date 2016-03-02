@@ -34,16 +34,27 @@
         margin: 0 auto;
 	}
 
+<<<<<<< HEAD
 	/*AM*/ 
 .am-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .am-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .am-circular {
+=======
+	/*OA*/ 
+.rt-titleo2{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitleo2{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circularo2 {
+>>>>>>> RogerTorrell/master
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
+<<<<<<< HEAD
 	background: url(https://media.licdn.com/mpr/mpr/p/7/005/07f/06f/3411d01.jpg) no-repeat;
+=======
+	background: url(http://a3.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTIwNjA4NjMzNzAzNzI4NjUy.jpg) no-repeat;
+>>>>>>> RogerTorrell/master
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
