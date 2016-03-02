@@ -179,7 +179,10 @@
         margin: 0 auto;
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> RogerTorrell/master
 =======
 >>>>>>> RogerTorrell/master
 /*  INICIO CSS DE - PGT  */
@@ -198,3 +201,19 @@
         margin: 0 auto;
 	}
 /*  FIN CSS DE - PGT  */
+
+/*MVC*/
+.mvc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.mvc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
+.mvc-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(../images/Heathcliff.png) no-repeat;
+    background-size: auto 200px;
+    background-position: center;
+    float: none;
+    margin: 0 auto;
+}
