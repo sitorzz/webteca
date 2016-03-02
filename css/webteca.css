@@ -5,7 +5,7 @@
 /*RAP*/
 .rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
 .rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
-.rap.circular{
+.rap-circular{
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
