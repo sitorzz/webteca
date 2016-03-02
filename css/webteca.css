@@ -18,37 +18,40 @@
         margin: 0 auto;
 	}
 	
-<<<<<<< HEAD
+
 /*PCG*/
 .pcg-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pcg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .pcg-circular {
-=======
-/*RH*/ 
-.rt-titleh{font-size:32px; font-family:'Arvo'; text-align:center}
-.rt-subtitleh{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.rt-circularh {
->>>>>>> 33f6d626b31c2d93584a085c67edd58e39d7279b
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
-<<<<<<< HEAD
 	background: url(foto.jpg) no-repeat;
-=======
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+		
+	}
+
+/*RH*/ 
+.rt-titleh{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitleh{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circularh {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
 	background: url(http://images6.fanpop.com/image/photos/34800000/Lelouch-lelouch-lamperouge-zero-34812534-1280-720.jpg) no-repeat;
->>>>>>> 33f6d626b31c2d93584a085c67edd58e39d7279b
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
         margin: 0 auto;
 	}
 
-<<<<<<< HEAD
-	
-=======
->>>>>>> 33f6d626b31c2d93584a085c67edd58e39d7279b
 /*m5uf2*/
 .m5uf2-title{font-size:30px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
