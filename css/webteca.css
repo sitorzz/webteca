@@ -129,6 +129,22 @@
         margin: 0 auto;
 	}
 
+/*KBA*/ 
+.kba-title{font-size:2em; font-family:'Arvo'; text-align:center}
+.kba-subtitle{font-size:0.9375em; font-family:'Arvo'; text-align:center; font-style:italic;}
+.kba-circular {
+	width: 12.5em;
+	height: 12.5em;
+	border-radius: 6.25em;
+	-webkit-border-radius: 6.25em;
+	-moz-border-radius: 6.25em;
+	background: url(../images/kba_image.png) no-repeat;
+	background-size: auto 12.5em;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
+	
 /*  INICIO CSS DE - PGT  */
 .pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
