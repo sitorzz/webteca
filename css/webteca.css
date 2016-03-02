@@ -2,6 +2,21 @@
 .title {font-size:60px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
 
+/*RAP*/
+.rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
+.rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
+.rap.circular{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://img02.lavanguardia.com/2015/02/16/Salto-inicial-en-el-All-Star-G_54427275111_54028874188_960_639.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
 /*RT*/ 
 .rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -144,6 +159,19 @@
         margin: 0 auto;
 }
 	
+/*GMJ*/
+.rt-circularGui {
+		width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://49.media.tumblr.com/a959a90a147a55ffb81ad59aa26781ae/tumblr_mztb16WuC21rjznlyo1_500.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 /*  INICIO CSS DE - PGT  */
 .pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
