@@ -150,6 +150,22 @@
         margin: 0 auto;
 }
 	
+<<<<<<< HEAD
+=======
+/*GMJ*/
+.rt-circularGui {
+		width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://49.media.tumblr.com/a959a90a147a55ffb81ad59aa26781ae/tumblr_mztb16WuC21rjznlyo1_500.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+>>>>>>> RogerTorrell/master
 /*  INICIO CSS DE - PGT  */
 .pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
