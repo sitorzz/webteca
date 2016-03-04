@@ -5,7 +5,7 @@
 /*RAP*/
 .rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
 .rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
-.rap.circular{
+.rap-circular{
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
@@ -66,11 +66,46 @@
 	float: none;
         margin: 0 auto;
 	}
+/*SGM*/ 
+.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.sgm-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.revistacosas.mx/sites/all/themes/ipress/logo.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+
+	/*AM*/ 
+.am-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.am-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.am-circular {
+
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://media.licdn.com/mpr/mpr/p/7/005/07f/06f/3411d01.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+    margin: 0 auto;
+	}
+
 
 	/*OA*/ 
 .rt-titleo2{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitleo2{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .rt-circularo2 {
+
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
@@ -80,7 +115,7 @@
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
-        margin: 0 auto;
+       margin: 0 auto;
 	}
 	/*RAP*/
 .rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
@@ -190,6 +225,8 @@
 	float: none;
         margin: 0 auto;
 	}
+
+
 /*  INICIO CSS DE - PGT  */
 .pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -222,3 +259,21 @@
     float: none;
     margin: 0 auto;
 }
+
+
+
+/*JAPO*/ 
+.japo-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.japo-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.japo-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(../images/duncan.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center;	
+	float: none;
+        margin: 0 auto;
+	}
