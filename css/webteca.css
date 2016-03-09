@@ -1,4 +1,3 @@
-/*CSS for webteca. M5 - UF2. v1.2*/
 .embed_object {width:100%; height:100%; border-style:none; border-width:0px;}
 .title {font-size:60px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
@@ -34,16 +33,17 @@
 	float: none;
         margin: 0 auto;
 	}
-/*SGM*/ 
-.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
-.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
-.sgm-circular {
+
+	/*OA*/ 
+.rt-titleo2{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitleo2{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circularo2 {
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
 	-webkit-border-radius: 100px;
 	-moz-border-radius: 100px;
-	background: url(http://www.revistacosas.mx/sites/all/themes/ipress/logo.png) no-repeat;
+	background: url(http://a3.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTIwNjA4NjMzNzAzNzI4NjUy.jpg) no-repeat;
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
@@ -51,7 +51,7 @@
 	}
 
 /*m5uf2*/
-.m5uf2-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.m5uf2-title{font-size:30px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .m5uf2-circular {
 	width: 200px;
@@ -65,3 +65,128 @@
 	float: none;
     margin: 0 auto;
 	}
+
+
+/*AG*/ 
+.ag-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.ag-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.ag-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://www.random.org/analysis/randbitmap-rdo-section.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+/*AGB*/
+.titleAGB{font-size:32px; font-family:'Arvo'; text-align:center}
+.subtitleAGB{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.circularAGB{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://archivoimg.globovision.com/wp-content/uploads/2015/08/farruko2.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+/*SME*/
+.titleSME{font-size:32px; font-family:'Arvo'; text-align:center}
+.subtitleSME{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.circularSME{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://archivoimg.globovision.com/wp-content/uploads/2015/08/farruko2.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+/*KBA*/ 
+.kba-title{font-size:2em; font-family:'Arvo'; text-align:center}
+.kba-subtitle{font-size:0.9375em; font-family:'Arvo'; text-align:center; font-style:italic;}
+.kba-circular {
+	width: 12.5em;
+	height: 12.5em;
+	border-radius: 6.25em;
+	-webkit-border-radius: 6.25em;
+	-moz-border-radius: 6.25em;
+	background: url(../images/kba_image.png) no-repeat;
+	background-size: auto 12.5em;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
+	
+/*GMJ*/
+.rt-circularGui {
+		width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://49.media.tumblr.com/a959a90a147a55ffb81ad59aa26781ae/tumblr_mztb16WuC21rjznlyo1_500.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+/*  INICIO CSS DE - PGT  */
+.pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.pgt-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://qu4k3.com/q.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+/*  FIN CSS DE - PGT  */
+
+/*MVC*/
+.mvc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.mvc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
+.mvc-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(../images/Heathcliff.png) no-repeat;
+    background-size: auto 200px;
+    background-position: center;
+    float: none;
+    margin: 0 auto;
+}
+/*SGM*/
+.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
+.sgm-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(https://nuestropensar.files.wordpress.com/2010/12/10-cosas-que-no-sabias-del-pulpo-paul-capich-580x435.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center;
+    float: none;
+    margin: 0 auto;
+}
