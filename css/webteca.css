@@ -259,6 +259,23 @@
     float: none;
     margin: 0 auto;
 }
+<<<<<<< HEAD
+/*SGM*/
+.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
+.sgm-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(https://nuestropensar.files.wordpress.com/2010/12/10-cosas-que-no-sabias-del-pulpo-paul-capich-580x435.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center;
+    float: none;
+    margin: 0 auto;
+}
+=======
 
 
 
@@ -277,3 +294,4 @@
 	float: none;
         margin: 0 auto;
 	}
+>>>>>>> refs/remotes/RogerTorrell/master
