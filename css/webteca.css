@@ -2,6 +2,21 @@
 .title {font-size:60px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
 
+/*RAP*/
+.rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
+.rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
+.rap-circular{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(../images/fotor.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
 /*RT*/ 
 .rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -18,6 +33,24 @@
         margin: 0 auto;
 	}
 	
+
+/*PCG*/
+.pcg-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.pcg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.pcg-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(foto.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+		
+	}
+
 /*RH*/ 
 .rt-titleh{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitleh{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -33,11 +66,46 @@
 	float: none;
         margin: 0 auto;
 	}
+/*SGM*/ 
+.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.sgm-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.revistacosas.mx/sites/all/themes/ipress/logo.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+
+	/*AM*/ 
+.am-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.am-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.am-circular {
+
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://media.licdn.com/mpr/mpr/p/7/005/07f/06f/3411d01.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+    margin: 0 auto;
+	}
+
 
 	/*OA*/ 
 .rt-titleo2{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitleo2{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
 .rt-circularo2 {
+
 	width: 200px;
 	height: 200px;
 	border-radius: 100px;
@@ -47,9 +115,23 @@
 	background-size: auto 200px;
 	background-position: center; 
 	float: none;
-        margin: 0 auto;
+       margin: 0 auto;
 	}
-
+	/*RAP*/
+.rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
+.rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
+.rap.circular{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://img02.lavanguardia.com/2015/02/16/Salto-inicial-en-el-All-Star-G_54427275111_54028874188_960_639.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
 /*m5uf2*/
 .m5uf2-title{font-size:30px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -143,6 +225,8 @@
 	float: none;
         margin: 0 auto;
 	}
+
+
 /*  INICIO CSS DE - PGT  */
 .pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -175,6 +259,7 @@
     float: none;
     margin: 0 auto;
 }
+<<<<<<< HEAD
 /*SGM*/
 .sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
@@ -190,3 +275,23 @@
     float: none;
     margin: 0 auto;
 }
+=======
+
+
+
+/*JAPO*/ 
+.japo-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.japo-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.japo-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(../images/duncan.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center;	
+	float: none;
+        margin: 0 auto;
+	}
+>>>>>>> refs/remotes/RogerTorrell/master
