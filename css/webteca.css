@@ -2,6 +2,21 @@
 .title {font-size:60px; font-family:'Montserrat'; text-align:center;}
 .text_primary {font-size:20px; font-family:'Montserrat'; text-align:center}
 
+/*RAP*/
+.rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
+.rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
+.rap-circular{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(../images/fotor.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
 /*RT*/ 
 .rt-title{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -18,6 +33,24 @@
         margin: 0 auto;
 	}
 	
+
+/*PCG*/
+.pcg-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.pcg-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.pcg-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(foto.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+		
+	}
+
 /*RH*/ 
 .rt-titleh{font-size:32px; font-family:'Arvo'; text-align:center}
 .rt-subtitleh{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -33,7 +66,72 @@
 	float: none;
         margin: 0 auto;
 	}
+/*SGM*/ 
+.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.sgm-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://www.revistacosas.mx/sites/all/themes/ipress/logo.png) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
 
+
+	/*AM*/ 
+.am-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.am-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.am-circular {
+
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://media.licdn.com/mpr/mpr/p/7/005/07f/06f/3411d01.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+    margin: 0 auto;
+	}
+
+
+	/*OA*/ 
+.rt-titleo2{font-size:32px; font-family:'Arvo'; text-align:center}
+.rt-subtitleo2{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.rt-circularo2 {
+
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://a3.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTIwNjA4NjMzNzAzNzI4NjUy.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+       margin: 0 auto;
+	}
+	/*RAP*/
+.rap-title{font-size:32px; font-family: 'Arvo'; text-align:center}
+.rap-subtitle{font-size: 15px; font-family: 'Arvo'; text-align: center}
+.rap.circular{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://img02.lavanguardia.com/2015/02/16/Salto-inicial-en-el-All-Star-G_54427275111_54028874188_960_639.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
 /*m5uf2*/
 .m5uf2-title{font-size:30px; font-family:'Arvo'; text-align:center}
 .m5uf2-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
@@ -82,3 +180,121 @@
 	float: none;
         margin: 0 auto;
 	}
+<<<<<<< HEAD
+=======
+/*SME*/
+.titleSME{font-size:32px; font-family:'Arvo'; text-align:center}
+.subtitleSME{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.circularSME{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://archivoimg.globovision.com/wp-content/uploads/2015/08/farruko2.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+/*KBA*/ 
+.kba-title{font-size:2em; font-family:'Arvo'; text-align:center}
+.kba-subtitle{font-size:0.9375em; font-family:'Arvo'; text-align:center; font-style:italic;}
+.kba-circular {
+	width: 12.5em;
+	height: 12.5em;
+	border-radius: 6.25em;
+	-webkit-border-radius: 6.25em;
+	-moz-border-radius: 6.25em;
+	background: url(../images/kba_image.png) no-repeat;
+	background-size: auto 12.5em;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+}
+	
+/*GMJ*/
+.rt-circularGui {
+		width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(https://49.media.tumblr.com/a959a90a147a55ffb81ad59aa26781ae/tumblr_mztb16WuC21rjznlyo1_500.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+
+
+/*  INICIO CSS DE - PGT  */
+.pgt-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.pgt-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.pgt-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(http://qu4k3.com/q.gif) no-repeat;
+	background-size: auto 200px;
+	background-position: center; 
+	float: none;
+        margin: 0 auto;
+	}
+/*  FIN CSS DE - PGT  */
+
+/*MVC*/
+.mvc-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.mvc-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
+.mvc-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(../images/Heathcliff.png) no-repeat;
+    background-size: auto 200px;
+    background-position: center;
+    float: none;
+    margin: 0 auto;
+}
+<<<<<<< HEAD
+/*SGM*/
+.sgm-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.sgm-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic; color:red;}
+.sgm-circular {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    background: url(https://nuestropensar.files.wordpress.com/2010/12/10-cosas-que-no-sabias-del-pulpo-paul-capich-580x435.jpg) no-repeat;
+    background-size: auto 200px;
+    background-position: center;
+    float: none;
+    margin: 0 auto;
+}
+=======
+
+
+
+/*JAPO*/ 
+.japo-title{font-size:32px; font-family:'Arvo'; text-align:center}
+.japo-subtitle{font-size:15px; font-family:'Arvo'; text-align:center; font-style:italic;}
+.japo-circular {
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	background: url(../images/duncan.jpg) no-repeat;
+	background-size: auto 200px;
+	background-position: center;	
+	float: none;
+        margin: 0 auto;
+	}
+>>>>>>> refs/remotes/RogerTorrell/master
+>>>>>>> RogerTorrell/master
